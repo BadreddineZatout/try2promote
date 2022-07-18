@@ -13,3 +13,11 @@
   background-repeat: no-repeat;
   background-size: 100vw var(--height);
 }
+
+#booking {
+  --height: 400px;
+  height: var(--height);
+  background: url("./assets/booking.png");
+  background-repeat: no-repeat;
+  background-size: 100vw var(--height);
+}
