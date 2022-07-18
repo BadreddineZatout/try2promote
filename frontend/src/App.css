@@ -5,3 +5,11 @@
 #links > a:first-child {
   @apply font-semibold text-Chestnut;
 }
+
+#header {
+  --height: 700px;
+  height: var(--height);
+  background: url("./assets/Group 5466.png");
+  background-repeat: no-repeat;
+  background-size: 100vw var(--height);
+}
