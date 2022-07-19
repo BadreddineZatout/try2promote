@@ -12,7 +12,6 @@ module.exports = {
       },
       fontFamily: {
         rambla: ["Rambla", "sans-serif"],
-        playball: ["Playball", "sans-serif"],
       },
     },
   },
