@@ -1,3 +1,4 @@
+@import url("http://fonts.cdnfonts.com/css/inter");
 #links > * {
   @apply font-rambla text-EearieBlack;
 }
@@ -20,4 +21,13 @@
   background: url("./assets/booking.png");
   background-repeat: no-repeat;
   background-size: 100vw var(--height);
+}
+
+#footer h1 {
+  @apply text-xl font-bold text-Chestnut;
+}
+
+#footer div:nth-child(1),
+#footer div:nth-child(2) {
+  @apply flex flex-col gap-y-2;
 }

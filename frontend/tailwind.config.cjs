@@ -12,6 +12,7 @@ module.exports = {
       },
       fontFamily: {
         rambla: ["Rambla", "sans-serif"],
+        inter: ["inter", "sans-serif"],
       },
     },
   },
